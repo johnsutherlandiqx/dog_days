@@ -11,7 +11,7 @@ Codecademy JavaScript project: Dog Years
 
 > Project 2 in the Codecademy Web Development Course Module 3: Getting Started with JavaScript
 
-## Author
+## Course
 
 ### Codecademy - module 3
 
