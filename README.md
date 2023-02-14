@@ -13,6 +13,6 @@ Codecademy JavaScript project: Dog Years
 
 ## Course
 
-### Codecademy - module 3
+### Codecademy - project 2, module 3
 
 - https://www.codecademy.com/courses/introduction-to-javascript/projects/dog-years-javascript
