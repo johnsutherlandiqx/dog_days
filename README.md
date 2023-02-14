@@ -11,6 +11,16 @@ Codecademy JavaScript project: Dog Years
 
 > Project 2 in the Codecademy Web Development Course Module 3: Getting Started with JavaScript
 
+## Key
+- Create variables
+- Use multiplication methods
+- Compare values
+- Addition
+- String method
+
+## Aim
+- Convert human years to dog years
+
 ## Course
 
 ### Codecademy - project 2, module 3
