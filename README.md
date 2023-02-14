@@ -13,8 +13,6 @@ Codecademy JavaScript project: Dog Years
 
 ## Author
 
-### Aaron Long
+### Codecademy - module 3
 
-- [GitHub Profile](https://github.com/aaronlng/)
-
-- Twitter: [@aaronlng](https://twitter.com/aaronlng)
+- https://www.codecademy.com/courses/introduction-to-javascript/projects/dog-years-javascript
